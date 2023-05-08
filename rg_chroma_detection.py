@@ -7,6 +7,7 @@ program: image segmentation using rg chromaticity + blob detection + hit detecti
 change log:
     04/15/23 @ initialization: increasing frame width to accomodate gongs
     04/15/23 @ main segmentation: downsampling included to minimize lag during detection while accomodating increase in width
+    
 """
 
 class segmentation(object):
