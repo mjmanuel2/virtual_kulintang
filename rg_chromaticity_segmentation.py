@@ -9,6 +9,7 @@ change log:
     04/12/23 @ blob detection: erosion instead of dilation (minimize white noise)
     04/13/23 @ blob detection: find largest circle + calculate bottom part
     04/28/23: non-parametric image segmentation
+    
 """
 
 class segmentation(object):
